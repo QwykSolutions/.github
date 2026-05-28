@@ -1,4 +1,16 @@
-## Hi there 👋
+<!-- ===================================================== -->
+<!-- Qwyk Solutions – Company Banner                        -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="SVG-Logo-Teal.svg"
+       alt="Qwyk Solutions Logo"
+       width="500" />
+</p>
+
+<hr />
+
+# Qwyk Solutions
 
 <!--
 
